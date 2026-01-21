@@ -1,4 +1,5 @@
-# ovpntmp
+# ovpntmp DEPRICATED
+# This has been moved to https://github.com/GustavPetterssonBjorklund/scripts
 
 # Installation
 ```bash
